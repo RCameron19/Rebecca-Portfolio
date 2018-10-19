@@ -4,12 +4,18 @@ title:  "Writing Sample 2"
 description: "Writing Sample 2  Press Release"
 ---
 
-Writing Sample 2: Press Release (Public Relations class) 
+## Press Release (Public Relations class) 
+
 FOR IMMEDIATE RELEASE
+
 Contact: Rebecca Kochanek
+
 BECameron15@gmail.com
+
 419-906-5567
+
 Respite Care Starts With You 
+
  
 DAYTON,OHIO— Alzheimer’s is the fourth leading cause of death in American adults. Not only does the illness affect the patients, but it has an immense impact on the entire family. Primary caregivers are left in a high-risk category for stress-related diseases. Due to the high stress of caring for an Alzheimer’s patient, it is essential for caregivers to get time off, regardless of how short that time may be. 
 

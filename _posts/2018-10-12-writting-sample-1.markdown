@@ -4,12 +4,18 @@ title:  "Writing Sample 1"
 description: "Writing Sample 1  Press Release"
 ---
 
-Writing Sample 1: Press Release (Public Relations class) 
+## Press Release (Public Relations class) 
+
 FOR IMMEDIATE RELEASE: 
+
 Contact: Rebecca Kochanek
+
 BECameron15@gmail.com
+
 419-906-5567
+
 The Psychic Zone is YOUR future. 
+
  
 DAYTON, OHIO--Beyond the edge of understanding, but within the fridge of awareness, beyond the distant future, though before the forgotten past lies a little-understood territory of the human mind known as the Psychic Zone.
 
