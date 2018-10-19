@@ -4,11 +4,16 @@ title:  "Writing Sample 3"
 description: "Writing Sample 3  Press Release"
 ---
 
-Writing Sample 3: Press Release (Current) 
+## Press Release (Current) 
+
 FOR IMMEDIATE RELEASE
+
 Contact: Rebecca Kochanek
+
 becameron15@gmail.com
+
 419-906-5567
+
 Haunted Escape Room: Are YOU Ready? 
  
 CINCINNATI OHIO --- This Halloween season, we invite you to check out the spooky in-home laboratory of husband and wife scientists who are on the brink of discovering a cure for the infamous outbreak in our haunted escape room at OTR Escape. Be prepared for mind tingling fright and thrill because this adventure starts the minute that you don’t receive the warm welcome you might be expecting!
