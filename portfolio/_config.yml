@@ -1,8 +1,8 @@
-name: Your New Jekyll Site
-description: Blogging about stuffs
-meta_description: "Your New Jekyll Site, Blogging about stuffs"
+name: Writting Portfolio
+description: Rebecca Kochanek Writting Portfolio
+meta_description: "Rebecca Kochanek Writting Portfolio"
 
-aboutPage: true
+# aboutPage: true
 
 markdown: kramdown
 highlighter: rouge
@@ -16,8 +16,8 @@ disqus_shortname: 'your-disqus-shortname'
 
 # Details for the RSS feed generator
 url:            'http://your-blog-url.example.com'
-author:         'Your Name'
-authorTwitter:  'YourTwitterUsername'
+author:         'Rebecca Kochanek'
+# authorTwitter:  'YourTwitterUsername'
 
 permalink:       /:year/:title/
 
